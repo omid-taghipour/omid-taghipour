@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omid</h1>
-<h3 align="center">A passionate Programmer in Web development, and Data Scientist in near future</h3>
+<h3 align="center">A passionate Programmer in Web development, and Data Science (in near future)</h3>
 
 - 🔭 I’m currently working on **Data science projects**
 
