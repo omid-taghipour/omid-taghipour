@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Programming, PHP, Java, Python, and Machine learning**
 
-- 📫 How to reach me **omid.taghipour1@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/omid-taghipour/](https://www.linkedin.com/in/omid-taghipour/)
 
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
