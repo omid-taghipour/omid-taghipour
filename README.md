@@ -29,6 +29,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omid-taghipour&show_icons=true&locale=en&layout=compact" alt="omid-taghipour" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omid-taghipour&show_icons=true&locale=en" alt="omid-taghipour" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omid-taghipour&show_icons=true&locale=en" alt="omid-taghipour" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omid-taghipour&" alt="omid-taghipour" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omid-taghipour&" alt="omid-taghipour" /></p>
