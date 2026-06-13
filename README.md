@@ -35,10 +35,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="60" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="60" alt="embeddedc logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
