@@ -94,16 +94,6 @@
 
 ###
 
-<h2 align="left">🚀 My Journey</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omid-taghipour&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <h2 align="left">📍 Where to Find Me</h2>
 
 ###
@@ -112,7 +102,7 @@
   <a href="https://www.linkedin.com/in/omid-taghipour/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
-  <a href="mailto:contact@omid-taghipour.com" target="_blank">
+  <a href="mailto:contact@otpr.cc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
   </a>
 </div>
